@@ -17,7 +17,7 @@ This API allows you to fine-tune HuggingFace models using CSV file uploads, conf
 
 ## Usage
 
-To use the API, execute the following curl commands sequentially:
+To use the API, execute the following curl commands sequentially and use the 'samusm.csv' file provided in the repository:
 
 ```sh
 # Choose Platform (Currently "HuggingFace")

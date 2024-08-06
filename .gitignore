@@ -1,1 +1,61 @@
 finetuning/
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env/
+*.env
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Data
+data/
+*.csv
+*.tsv
+*.json
+
+# Output directories
+outputs/
+results/
+
+# Model files
+*.pt
+*.h5
+*.bin
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.swp
+*.swo
+*.swn
+
+# Hugging Face
+*.token
+
+# Ignore specific files or directories
+# Example: ignore all .txt files in data directory
+data/*.txt
+
+
+
+.DS_Store
+huggingface/.DS_Store
+huggingface/__pycache__/
