@@ -13,6 +13,11 @@ These are the 7 REST endpoints:
 # STEPS TO TEST THE FINETUNING PLATFORM
 # HuggingFace Model Fine-Tuning API
 
+1. Pull the repository in your pc
+2. Install all the requirements
+3. run main.py
+4. Test the curl commands on postman
+
 This API allows you to fine-tune HuggingFace models using CSV file uploads, configure hyperparameters, and compare results.
 
 ## Usage
